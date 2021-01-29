@@ -2,7 +2,7 @@ package ca.shaw.bstus;
 
 import java.util.ArrayList; 
 
-class JavaTestLambda 
+class JavaTestLambda01 
 { 
     public static void main(String args[]) 
     { 
